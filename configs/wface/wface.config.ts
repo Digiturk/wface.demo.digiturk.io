@@ -18,7 +18,8 @@ const config = {
   },
   authService: AuthService,
   theme: theme,
-  useLocalStorage: true
+  useLocalStorage: true,
+  search: true
 } as IConfiguration
 
 export default config;
